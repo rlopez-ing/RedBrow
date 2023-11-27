@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\buy3i.api.props" />
+</Project>
