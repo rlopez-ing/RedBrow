@@ -7,5 +7,3 @@ Instalación:
   3.- Compilar proyecto y ejecutar 
 
 Nota: el test esta incompleto por motivos ajenos a mi voluntad no logre hacerlo.
-
-Sin mas Richard.
